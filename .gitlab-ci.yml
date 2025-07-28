@@ -8,7 +8,7 @@ pages:
   script:
     - helm package techno
     - mv *.tgz public/
-    - helm repo index public/ --url https://sultech-group.gitlab.io/helm-chart
+    - helm repo index public/ --url https://sultechno.github.io/helm-chart
 
   artifacts:
     paths:
