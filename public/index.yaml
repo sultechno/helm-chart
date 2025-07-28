@@ -9,6 +9,6 @@ entries:
     name: techno
     type: application
     urls:
-    - https://sultech-group.gitlab.io/helm-chart/techno-0.1.0.tgz
+    - https://sultechno.github.io/helm-chart/techno-0.1.0.tgz
     version: 0.1.0
 generated: "2025-07-28T18:27:19.93101129Z"
